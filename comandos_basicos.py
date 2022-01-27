@@ -124,7 +124,7 @@ def main():
     #print(collection.find_one(query))
     '''
 
-    #Atualizar o documento dentro da coleção
+    # Atualizar o documento dentro da coleção
     # Podemos atualizar de duas foras
     # 1. Atualizando um unico documento
     # 2. Atualizando varios documentos
